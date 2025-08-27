@@ -3,4 +3,8 @@ Demos and assignments for Fall 25 Introduction to Data Analytics at NWU.
 
 Test edit on official repository.
 
+
 CJ is bad at coding
+
+This edit will cause a conflict.
+
